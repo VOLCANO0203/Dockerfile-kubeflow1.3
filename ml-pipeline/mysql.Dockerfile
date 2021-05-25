@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/mysql:1.5.0
+FROM gcr.io/ml-pipeline/mysql:5.7
