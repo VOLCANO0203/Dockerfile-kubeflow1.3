@@ -1,0 +1,1 @@
+FROM mpioperator/mpi-operator:latest
