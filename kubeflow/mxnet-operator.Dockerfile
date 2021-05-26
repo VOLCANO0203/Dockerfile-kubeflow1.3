@@ -1,0 +1,1 @@
+FROM kubeflow/mxnet-operator:v1.1.0
